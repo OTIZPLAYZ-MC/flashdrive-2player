@@ -10,5 +10,5 @@ I MAY ADD A LICENCE LATER IN DEVELOPMENT
 # Appliences
 You Must Have the following products or memory to use the project                                                                                                           •FLASH DRIVE
  •Enough Memory on your flash drive and pc for the system
- • Ruffle Emulator ( Download at : https://ruffle.rs/ )
+ • Ruffle Emulator [PREINSTALLED] ( Download at : https://ruffle.rs/ )
  
