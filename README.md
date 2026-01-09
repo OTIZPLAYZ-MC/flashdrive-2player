@@ -3,7 +3,7 @@ Why do they call it a flash drive if flash is a app type?This fixes that.RUFFLE 
 # Why Flash?Its so old!
 Even though flash is old you have to admit it is cool.
 # Downloads
-This project has been announced but not made yet.Please note i may cancel the making
+flashdrive-2player has now been released.Go to releases and download now!
 # Licences
 THIS PROJECT IS NOT LICENCED.
 I MAY ADD A LICENCE LATER IN DEVELOPMENT
